@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlie-Steer.
-- 👀 I’m interested in video games & digital art and technology.
-- 🌱 I’m currently learning Unity.
+- 👀 I’m interested in video games, A.I., art and technology.
+- 🌱 I’m currently making videos on [YouTube](https://www.youtube.com/@charliesteer)
 
 <!---
 Charlie-Steer/Charlie-Steer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
